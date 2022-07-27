@@ -1,0 +1,20 @@
+.toggleButton {
+   text-align: center;
+}
+
+.dark-theme {
+   background-color: black;
+   color:#fff;
+}
+.dark-theme button {
+   background-color: gray;
+}
+
+.light-theme {
+   background-color: white;
+}
+
+.light-theme button {
+   background-color:#363636;
+   color:#fff;
+}
